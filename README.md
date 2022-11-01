@@ -1,1 +1,1 @@
-- Hi, I’m Karim Kamaletdinov
+- Hi, I’m Karim Kamaletdinov, founder of [Natt.js](https://github.com/natt-js/natt) framework
